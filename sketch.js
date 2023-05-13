@@ -18,7 +18,7 @@ bot1Img = loadAnimation("./Images/bot10.png","./Images/bot11.png")
 bot2Img = loadAnimation("./Images/spiker0.png","./Images/spiker1.png")
 bot3Img = loadAnimation("./Images/fighter.png")
 bgSound = loadSound("./sound/bg.wav");
-deathSound = loadSound("/sound/death.mp3")
+deathSound = loadSound("./sound/death.mp3")
 titleImg = loadImage("./Images/title.png")
 
 
